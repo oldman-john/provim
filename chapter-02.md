@@ -1,3 +1,5 @@
+Installation and Configuration
+=============================
 Summary
 So, here we are at the end of yet another chapter. Let’s recap what you’ve learned so far. First, we started by learning about the terminal application and how it gives us access to the underlying system via the shell environment.
 Next, you learned how to interpret and read shell commands (as well as where to find help via the built- in manuals). We copied and pasted quite a few commands to convert from Bash to Zsh and to get our terminal environment in a better state than we found it.
