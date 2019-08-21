@@ -1,4 +1,4 @@
-Summary
+Fundamentals
 --------
 OK, you’ve learned a lot in this chapter. We’re finally starting to get to the meat of how Vim works. We covered all the core fundamental areas of Vim, such as
 • Commands
