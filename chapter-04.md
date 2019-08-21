@@ -1,4 +1,5 @@
-ummary
+Files
+=======
 Although I might not have delved too deeply into some of the file features available within Vim, I have covered a lot of important topics. Let’s quickly recap some of them.
 • We looked at how to open files from outside Vim, using globs/wildcards, and how to manipulate the :e command within Vim, using certain keyboard shortcuts.
 • I discussed how Vim handles certain file formats across different operating systems and how to dynamically change those values by resetting the fileformat option.
